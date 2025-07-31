@@ -34,3 +34,23 @@ This is a visually rich and interactive clone of [ochi.design](https://ochi.desi
 ├── postcss.config.js
 ├── package.json
 └── README.md
+
+
+
+1. Clone the repository
+git clone https://github.com/yourusername/ochi-clone.git
+cd ochi-clone
+
+2. Install dependencies
+npm install
+
+3. Start the development server
+npm run dev
+
+####Dependencies###
+React
+Tailwind CSS
+Framer Motion
+Locomotive Scroll
+React Icons (optional)
+
